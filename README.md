@@ -14,7 +14,7 @@ State-by-state Google sheets (with separate tabs for each school) and a [Referen
 - - - -
 
 <p align="center">
-<img src="maps_so_far_2020-01-04.png" alt="county_level" width="95%"/>
+<img src="figs/pngs/map_with_testing_comparison_main.png" alt="county_level" width="95%"/>
 </p>
 
 **<p align="center">Current status of the Campus Covid dataset.**
