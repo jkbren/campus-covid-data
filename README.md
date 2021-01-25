@@ -33,6 +33,12 @@ The main finding of this work so far concerns campus testing from IHEs.
 **<p align="center">Institutions of higher education that test more frequently also tend to have earlier "first" peaks.**
 - - - -
 
+<p align="center">
+<img src="figs/pngs/IHE_FIPS_fall2020_status.png" alt="county_level" width="95%"/>
+</p>
+
+**<p align="center">Online vs. In-person Fall 2020.**
+- - - -
 ## Limitations
 There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here.
 
