@@ -64,19 +64,6 @@ This code is written in [Python 3.x](https://www.python.org) and uses the follow
 * [gspread](https://gspread.readthedocs.io/en/latest/) 
 
 
-## Citation   <a name="citation"/>
-
-If you use findings from this work and/or some of the aggregated data provided in your own research, please cite the following:
-
-Bibtex: 
-```text
-@misc{klein2021,
-  title = {The Campus COVID Dataset},
-  author = {Brennan Klein},
-  year = {2021},
-  url = {\url{https://github.com/campus-covid-data/}}
-}
-```
 
 ## See also:
 
