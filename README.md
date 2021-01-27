@@ -8,6 +8,35 @@ In order to collect this data, I first collected the urls of thousands of IHEs' 
 To my knowledge, this has turned into the largest dataset with time series of campus COVID cases and testing in the United States. That said, **this is not meant to replace or stand-in for expert knowledge about how to enact policy.** I hope it inspires policymakers to assemble a national database for this information, one that institutions of higher education are required to report to. This is already done in several states. In the meantime, I encourage folks to check this one out, contribute to it, and share it widely.
 
 
+## Limitations
+There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here.
+
+
+## Notebooks
+1. [Automate the creation of individual Google Sheets](https://github.com/campus-covid-data/code/create_google_sheets.ipynb)
+2. [Pull data from Google Sheets](https://github.com/campus-covid-data/code/retrieve_data_from_google_sheets.ipynb)
+3. [Main analysis](https://github.com/campus-covid-data/code/analysis-main.ipynb)
+4. [Case study: Massachusetts](https://github.com/jkbren/campus-covid-data/blob/main/code/analysis-massachusetts.ipynb)
+5. [(roughly) Controlling for differences in local policy](https://github.com/jkbren/campus-covid-data/blob/main/code/analysis-localpolicies.ipynb)
+6. [Misc analysis](https://github.com/jkbren/campus-covid-data/blob/main/code/analysis-misc.ipynb)
+
+
+## Other datasets
+1. nyt_cases_as_of_12-11.csv - New York Times case counts (https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html)
+2. party_school_rankings.tsv - party school ranking data scaped from niche.com (https://www.niche.com/colleges/search/top-party-schools/)
+3. ipeds_data.csv - IPEDS school data (https://nces.ed.gov/ipeds/use-the-data)
+4. local policy data - COVID-Local (https://www.covid-local.org/amp/)
+
+
+### Main packages used  <a name="requirements"/>
+
+This code is written in [Python 3.x](https://www.python.org) and uses the following packages:
+
+* [Pandas](https://pandas.pydata.org/)
+* [Numpy](http://numpy.scipy.org/)
+* [geopandas](https://geopandas.org/) (for replicating the map figures)
+* [gspread](https://gspread.readthedocs.io/en/latest/) 
+
 
 ## Data and findings
 To download the csv of the full dataset, see data/ihe_testing_casecounts_fall2020.csv. This dataset was built by heavily relying on a Python to Google sheets interface. I learned about this tool [here](https://www.twilio.com/blog/2017/02/an-easy-way-to-read-and-write-to-a-google-spreadsheet-in-python.html). To recreate the dataset entirely, you will need to go through the steps to enable API acccess [here](https://gspread.readthedocs.io/en/latest/oauth2.html#enable-api-access).
@@ -45,30 +74,6 @@ The main finding of this work so far concerns campus testing from IHEs.
 
 **<p align="center">Separated by counties in states with ongoing social distancing / mitigation policies in place.**
 - - - -
-
-## Limitations
-There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here.
-
-
-## Notebooks
-1. [Automate the creation of individual Google Sheets](https://github.com/campus-covid-data/code/create_google_sheets.ipynb)
-2. [Pull data from Google Sheets](https://github.com/campus-covid-data/code/retrieve_data_from_google_sheets.ipynb)
-3. [Main analysis](https://github.com/campus-covid-data/code/analysis-main.ipynb)
-
-## Other datasets
-1. nyt_cases_as_of_12-11.csv - New York Times case counts (https://www.nytimes.com/interactive/2020/us/covid-college-cases-tracker.html)
-2. party_school_rankings.tsv - party school ranking data scaped from niche.com (https://www.niche.com/colleges/search/top-party-schools/)
-3. ipeds_data.csv - IPEDS school data (https://nces.ed.gov/ipeds/use-the-data)
-
-
-### Requirements  <a name="requirements"/>
-
-This code is written in [Python 3.x](https://www.python.org) and uses the following packages:
-
-* [Pandas](https://pandas.pydata.org/)
-* [Numpy](http://numpy.scipy.org/)
-* [geopandas](https://geopandas.org/) (for replicating the map figures)
-* [gspread](https://gspread.readthedocs.io/en/latest/) 
 
 
 
