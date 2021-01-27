@@ -1,0 +1,535 @@
+state,local_area,Latitude,Longitude,county
+Alabama,"Montgomery (city), AL",32.3792458,-86.3078353,1
+Alaska,"Juneau City and Borough, AK",58.3019444,-134.4197221,1
+Arizona,"Phoenix (city), AZ",33.4483771,-112.0740373,1
+Arizona,"Pima County, AZ",32.057499,-111.6660725,1
+Arizona,"Tucson (city), AZ",32.2226066,-110.9747108,1
+Arkansas,"Little Rock (city), AR",34.7490099,-92.2755896,1
+California,"Alameda County, CA",37.6016892,-121.7195459,1
+California,"Alpine County, CA",38.5940736,-119.8815203,1
+California,"Amador County, CA",38.3488921,-120.7740931,1
+California,"Butte County, CA",39.6253952,-121.5370003,1
+California,"Calaveras County, CA",38.1960477,-120.6805037,1
+California,"Colusa County, CA",39.1040645,-122.2653887,1
+California,"Contra Costa County, CA",37.8534093,-121.9017954,1
+California,"Del Norte County, CA",41.7076287,-123.9659708,1
+California,"Fairfax City, VA",38.8462236,-77.3063733,1
+California,"Fresno (city), CA",36.7377981,-119.7871247,1
+California,"Fresno County, CA",36.9858984,-119.2320784,1
+California,"Glenn County, CA",39.6437813,-122.4467238,1
+California,"Imperial County, CA",33.0113694,-115.4733554,1
+California,"Inyo County, CA",36.3091865,-117.5495846,1
+California,"Kern County, CA",35.4937274,-118.8596804,1
+California,"Kings County, CA",36.0988489,-119.8815203,1
+California,"Lake County, CA",39.0839644,-122.8084496,1
+California,"Los Angeles (city), CA",34.0537136,-118.2426533,1
+California,"Los Angeles County, CA",34.0522265,-118.2436596,1
+California,"Madera County, CA",37.251926,-119.6962677,1
+California,"Marin County, CA",38.083403,-122.7633036,1
+California,"Mariposa County, CA",37.4893626,-119.9679294,1
+California,"Mendocino County, CA",39.5500194,-123.438353,1
+California,"Merced County, CA",37.2009788,-120.7120023,1
+California,"Mono County, CA",37.9218608,-118.9528645,1
+California,Monterey County,36.3136201,-121.3541631,1
+California,"Napa County, CA",38.5024689,-122.2653887,1
+California,"Nevada County, CA",39.1346666,-121.1710389,1
+California,"Oakland (city), CA",37.8043514,-122.2711639,1
+California,"Orange County, CA",33.7174708,-117.8311428,1
+California,"Plumas County, CA",39.9926832,-120.8039474,1
+California,"Sacramento County, CA",38.47467,-121.3541631,1
+California,"San Benito County, CA",36.5760883,-120.9876321,1
+California,"San Bernardino County, CA",34.9592083,-116.419389,1
+California,"San Diego (city), CA",32.715738,-117.1610838,1
+California,"San Diego County, CA",32.7157305,-117.1610966,1
+California,"San Francisco (city), CA",37.7749295,-122.4194155,1
+California,"San Joaquin County, CA",37.9175935,-121.1710389,1
+California,"San Luis Obispo County, CA",35.3102296,-120.4357631,1
+California,"San Mateo County, CA",37.4337342,-122.4014193,1
+California,"Santa Ana (city), CA",33.7498844,-117.8732101,1
+California,"Santa Barbara County, CA",34.4208321,-119.6982057,1
+California,"Santa Clara County, CA",37.3336581,-121.8907041,1
+California,"Santa Cruz County, CA",37.0453988,-121.9579578,1
+California,"Solano County, CA",38.3104969,-121.9017954,1
+California,"Sonoma County, CA",38.5779555,-122.9888319,1
+California,"Stanislaus County, CA",37.5090711,-120.9876321,1
+California,"Sutter County, CA",39.0219764,-121.6739371,1
+California,"Trinity County, CA",40.6329485,-123.0622553,1
+California,"Tulare County, CA",36.1341739,-118.8596804,1
+California,"Tuolumne County, CA",38.029655,-119.9740534,1
+California,"Ventura County, CA",34.3704884,-119.1390642,1
+California,"Yolo County, CA",38.7646021,-121.9017954,1
+California,"Yuba County, CA",39.2547027,-121.3998995,1
+Colorado,"Denver County, CO",39.7392358,-104.990251,1
+Connecticut,"Hartford (city), CT",41.7658043,-72.6733723,1
+Delaware,"Dover (city), DE",39.158168,-75.5243682,1
+Florida,"Alachua County, FL",29.6579549,-82.3017728,1
+Florida,"Broward County, FL",26.190096,-80.365865,1
+Florida,"Miami-Dade County, FL",25.5516034,-80.6326916,1
+Florida,"Palm Beach County, FL",26.6514503,-80.2767327,1
+Florida,"Seminole County, FL",28.7131688,-81.2078164,1
+Georgia,"Atlanta (city), GA",33.7489954,-84.3879824,1
+Georgia,"Clayton County, GA",33.5571944,-84.375233,1
+Georgia,"DeKalb County, GA",33.7956441,-84.2278796,1
+Georgia,"Fulton County, GA",33.8033965,-84.3962535,1
+Idaho,"Boise (city), ID",43.6150186,-116.2023137,1
+Illinois,"Chicago (city), IL",41.8781136,-87.6297982,1
+Illinois,"Cook County, IL",41.7376587,-87.697554,1
+Illinois,"Du Quoin (city), IL",38.0114393,-89.2361935,1
+Illinois,"Springfield (city), IL",39.799112,-89.644475,1
+Indiana,"Elkhart County, IN",41.6062253,-85.8486236,1
+Indiana,"Steuben County, IN",41.6115471,-84.981754,1
+Indiana,"Crawford County, IN",38.3054548,-86.4592091,1
+Indiana,"Jackson County, IN",38.8794321,-86.0529604,1
+Indiana,"Floyd County, IN",38.2869276,-85.8895551,1
+Indiana,"Greene County, IN",39.0321796,-86.9824288,1
+Indiana,"Boone County, IN",40.0106163,-86.4996546,1
+Indiana,"Huntington County, IN",40.7911217,-85.520024,1
+Indiana,"Cass County, IN",40.8199089,-86.3376761,1
+Indiana,"Ohio County, IN",38.9417259,-84.9609464,1
+Indiana,"St. Joseph County, IN",41.6228085,-86.3376761,1
+Indiana,"Fulton County, IN",41.0204161,-86.2970998,1
+Indiana,"Marshall County, IN",41.303028,-86.3376761,1
+Indiana,"Kosciusko County, IN",41.2864679,-85.8486236,1
+Indiana,"Delaware County, IN",40.2583533,-85.3962769,1
+Indiana,"DeKalb County, IN",41.4138928,-85.023346,1
+Indiana,"Daviess County, IN",38.7020241,-87.1422895,1
+Indiana,"Dearborn County, IN",39.1713075,-84.981754,1
+Indiana,"Pulaski County, IN",40.9957383,-86.8220341,1
+Indiana,"Fountain County, IN",40.2227197,-87.3347575,1
+Indiana,"Fayette County, IN",39.5920377,-85.1479364,1
+Indiana,"Noble County, IN",41.4277391,-85.354965,1
+Indiana,"Warren County, IN",40.319245,-87.3413599,1
+Indiana,"Franklin County, IN",39.4233977,-85.0649071,1
+Indiana,"Vermillion County, IN",39.8512139,-87.4802068,1
+Indiana,"Dubois County, IN",38.357918,-86.8220341,1
+Indiana,"Spencer County, IN",37.9832621,-87.0224442,1
+Indiana,"Bartholomew County, IN",39.206801,-85.8895551,1
+Indiana,"Newton County, IN",40.9703076,-87.4207518,1
+Indiana,"Adams County, IN",40.7249237,-84.8984775,1
+Indiana,"Lake County, IN",41.4897279,-87.3016132,1
+Indiana,"Hendricks County, IN",39.8064942,-86.5400674,1
+Indiana,"Putnam County, IN",39.690997,-86.8220341,1
+Indiana,"Allen County, IN",41.0932622,-85.023346,1
+Indiana,"Blackford County, IN",40.4992784,-85.3136218,1
+Indiana,"Marion County, IN",39.83619,-86.1751759,1
+Indiana,"Union County, IN",39.6637751,-84.8984775,1
+Indiana,"Decatur County, IN",39.3176186,-85.520024,1
+Indiana,"Clay County, IN",39.368622,-87.1422895,1
+Indiana,"Ripley County, IN",39.0986811,-85.2308414,1
+Indiana,"Jennings County, IN",38.9914998,-85.684578,1
+Indiana,"Montgomery County, IN",40.019879,-86.8220341,1
+Indiana,"Carroll County, IN",40.542415,-86.5400674,1
+Indiana,"Harrison County, IN",38.1701136,-86.1751759,1
+Indiana,"Knox County, IN",38.6665815,-87.4207518,1
+Indiana,"Vanderburgh County, IN",38.0806099,-87.5791287,1
+Indiana,"Madison County, IN",40.1469349,-85.684578,1
+Indiana,"Scott County, IN",38.7008005,-85.7256372,1
+Indiana,"Johnson County, IN",39.4637793,-86.1344697,1
+Indiana,"Martin County, IN",38.6937856,-86.8220341,1
+Indiana,"Posey County, IN",38.0020359,-87.8942451,1
+Indiana,"Switzerland County, IN",38.8419394,-85.0649071,1
+Indiana,"Randolph County, IN",40.1204532,-85.023346,1
+Indiana,"Sullivan County, IN",39.0843122,-87.4207518,1
+Indiana,"Pike County, IN",38.4110583,-87.2618328,1
+Indiana,"Owen County, IN",39.3603429,-86.8220341,1
+Indiana,"Hancock County, IN",39.8249915,-85.8486236,1
+Indiana,"Grant County, IN",40.4730605,-85.684578,1
+Indiana,"Lawrence County, IN",38.8518863,-86.4996546,1
+Indiana,"Clark County, IN",38.4492903,-85.7256372,1
+Indiana,"Clinton County, IN",40.3376924,-86.4996546,1
+Indiana,"Benton County, IN",40.644786,-87.3413599,1
+Indiana,"LaGrange County, IN",41.6288702,-85.3962769,1
+Indiana,"Morgan County, IN",39.5116809,-86.3376761,1
+Indiana,"Tippecanoe County, IN",40.3469731,-86.8220341,1
+Indiana,"Porter County, IN",41.5248577,-87.1023746,1
+Indiana,"Washington County, IN",38.6744747,-86.1751759,1
+Indiana,"Rush County, IN",39.6481768,-85.520024,1
+Indiana,"Tipton County, IN",40.2825661,-86.0529604,1
+Indiana,"White County, IN",40.6765551,-86.9824288,1
+Indiana,"Henry County, IN",39.9704844,-85.354965,1
+Indiana,"Gibson County, IN",38.3338249,-87.5791287,1
+Indiana,"Miami County, IN",40.770099,-86.0529604,1
+Indiana,"Jasper County, IN",41.0040981,-87.1422895,1
+Indiana,"Jefferson County, IN",38.7751543,-85.4788065,1
+Indiana,"Monroe County, IN",39.1851445,-86.4996546,1
+Indiana,"Brown County, IN",39.1749729,-86.1751759,1
+Indiana,"Perry County, IN",38.0159043,-86.6611083,1
+Indiana,"Wayne County, IN",39.831882,-84.981754,1
+Indiana,"Vigo County, IN",39.4165382,-87.4207518,1
+Indiana,"Jay County, IN",40.4465288,-85.023346,1
+Indiana,"Whitley County, IN",41.1136133,-85.520024,1
+Indiana,"Parke County, IN",39.6992946,-87.1422895,1
+Indiana,"Warrick County, IN",38.0736703,-87.2618328,1
+Indiana,"Wells County, IN",40.7778348,-85.1894045,1
+Indiana,"Howard County, IN",40.4482767,-86.1344697,1
+Indiana,"Shelby County, IN",39.4952877,-85.8486236,1
+Indiana,"Starke County, IN",41.2715616,-86.6207943,1
+Indiana,"Orange County, IN",38.5169004,-86.4996546,1
+Indiana,"Wabash County, IN",40.8033875,-85.8486236,1
+Indiana,"LaPorte County, IN",41.4775131,-86.8220341,1
+Indiana,"Hamilton County, IN",40.0372797,-86.0529604,1
+Iowa,,,,0
+Kentucky,"Louisville (city), KY",38.2546234,-85.7605496,1
+Maine,"Oxford County, ME",44.4906897,-70.7840564,1
+Maine,"Sagadahoc County, ME",43.8171265,-69.7825531,1
+Maine,"Lincoln County, ME",44.108282,-69.511031,1
+Maine,"Somerset County, ME",45.5913402,-69.9999212,1
+Maine,"Kennebec County, ME",44.4499153,-69.7038278,1
+Maine,"Knox County, ME",43.9969995,-68.9242652,1
+Maine,"Washington County, ME",44.9849315,-67.6776835,1
+Maine,"Piscataquis County, ME",45.7049857,-69.3375071,1
+Maine,"Hancock County, ME",44.5770308,-68.3566919,1
+Maine,"Waldo County, ME",44.5106837,-69.2077896,1
+Maine,"Aroostook County, ME",46.819941,-68.4766064,1
+Maine,"Franklin County, ME",45.0386059,-70.3979538,1
+Maryland,"Baltimore City, MD",39.2903848,-76.6121893,1
+Maryland,"Charles County, MD",38.5221781,-77.1024902,1
+Maryland,"Frederick (city), MD",39.4157846,-77.4127385,1
+Maryland,"Frederick County, MD",39.3844507,-77.4701972,1
+Maryland,"Laurel (city), MD",39.0992752,-76.8483061,1
+Maryland,"Montgomery County, MD",39.1547426,-77.2405153,1
+Maryland,"Prince George's County, MD",38.7849211,-76.8720961,1
+Massachusetts,"Braintree (city), MA",42.2060878,-71.0053614,1
+Massachusetts,,,,0
+Massachusetts,"Suffolk County, MA",42.3522866,-71.0504229,1
+Nebraska,"Dakota County, NE",42.4040965,-96.5356449,1
+Nebraska,"Merrick County, NE",41.2031926,-98.0028892,1
+Nebraska,"Hall County, NE",40.8817333,-98.5721016,1
+Nebraska,"Hamilton County, NE",40.919722,-98.0465185,1
+Nebraska,"Washington County, NE",41.5541889,-96.195132,1
+Nebraska,"Dawson County, NE",40.9427264,-99.8124935,1
+Nebraska,"Lincoln County, NE",40.9338037,-100.8000051,1
+Nebraska,"Buffalo County, NE",40.8410218,-99.1013498,1
+Nebraska,"Scotts Bluff County, NE",41.8140936,-103.6362715,1
+Nebraska,"Gage County, NE",40.1989041,-96.663812,1
+Nebraska,"Platte County, NE",41.59406,-97.5247243,1
+Nebraska,"Dodge County, NE",41.6472611,-96.663812,1
+Nebraska,"Seward County, NE",40.9078649,-97.0984646,1
+Nebraska,"Douglas County, NE",41.3148116,-96.195132,1
+Nebraska,"Cass County, NE",40.8755529,-96.1526985,1
+Nebraska,"Saunders County, NE",41.168563,-96.663812,1
+Nebraska,"Sarpy County, NE",41.0744042,-96.195132,1
+Nebraska,"Lancaster County, NE",40.8471492,-96.663812,1
+Nebraska,"Madison County, NE",41.9108264,-97.5247243,1
+Nebraska,"Adams County, NE",40.5596231,-98.5721016,1
+Nebraska,"Fillmore County, NE",40.4710119,-97.5247243,1
+Nebraska,"Franklin County, NE",40.2089857,-98.9245343,1
+Nebraska,"Saline County, NE",40.4930367,-97.179026,1
+Nebraska,"Nuckolls County, NE",40.110932,-98.0465185,1
+Nebraska,"Webster County, NE",40.2357266,-98.5721016,1
+Nebraska,"Phelps County, NE",40.4903536,-99.456155,1
+Nebraska,"Harlan County, NE",40.1665848,-99.456155,1
+Nebraska,"Thayer County, NE",40.1460895,-97.5247243,1
+Nebraska,"Jefferson County, NE",40.1680732,-97.179026,1
+Nebraska,"Clay County, NE",40.5975479,-98.0465185,1
+Nebraska,"Gosper County, NE",40.4604851,-99.8124935,1
+Nebraska,"Kearney County, NE",40.5328331,-98.9245343,1
+Nebraska,"Holt County, NE",42.3803308,-98.6600586,1
+Nebraska,"York County, NE",40.7941448,-97.5247243,1
+Nebraska,"Custer County, NE",41.3491322,-99.7232673,1
+Nebraska,"Sheridan County, NE",42.3613076,-102.2547919,1
+Nebraska,"Cherry County, NE",42.474114,-101.1617356,1
+Nebraska,"Pawnee County, NE",40.1025817,-96.195132,1
+Nebraska,"Wayne County, NE",42.2479453,-97.179026,1
+Nebraska,"Loup County, NE",41.9251335,-99.456155,1
+Nebraska,"Garden County, NE",41.7369721,-102.2547919,1
+Nebraska,"Keya Paha County, NE",42.8461857,-99.634135,1
+Nebraska,"Sherman County, NE",41.1751661,-98.9245343,1
+Nebraska,"Deuel County, NE",41.1401755,-102.3005803,1
+Nebraska,"Perkins County, NE",40.7922353,-101.4339148,1
+Nebraska,"Butler County, NE",41.1375727,-97.179026,1
+Nebraska,"Morrill County, NE",41.6552418,-102.989615,1
+Nebraska,"Polk County, NE",41.1526688,-97.5680595,1
+Nebraska,"Hitchcock County, NE",40.1844599,-101.0711758,1
+Nebraska,"Box Butte County, NE",42.1911471,-103.0817903,1
+Nebraska,"Nemaha County, NE",40.4074745,-95.8142885,1
+Nebraska,"Nance County, NE",41.3995947,-98.0465185,1
+Nebraska,"Rock County, NE",42.3951993,-99.456155,1
+Nebraska,"Knox County, NE",42.6712397,-97.87216,1
+Nebraska,"Dundy County, NE",40.1306121,-101.6157773,1
+Nebraska,"Chase County, NE",40.4531318,-101.6157773,1
+Nebraska,"Blaine County, NE",41.8795565,-99.9912254,1
+Nebraska,"Greeley County, NE",41.520541,-98.5721016,1
+Nebraska,"Johnson County, NE",40.3808026,-96.3226072,1
+Nebraska,"Thurston County, NE",42.1685528,-96.5356449,1
+Nebraska,"Richardson County, NE",40.0898025,-95.6457951,1
+Nebraska,"Garfield County, NE",41.9678957,-98.9245343,1
+Nebraska,"Dixon County, NE",42.4257719,-96.8350999,1
+Nebraska,"Frontier County, NE",40.5744778,-100.3497895,1
+Nebraska,"Otoe County, NE",40.675971,-96.1102943,1
+Nebraska,"Kimball County, NE",41.1856601,-103.6362715,1
+Nebraska,"Colfax County, NE",41.6268435,-97.0068393,1
+Nebraska,"Red Willow County, NE",40.2353963,-100.5296115,1
+Nebraska,"Grant County, NE",41.8637754,-101.7979613,1
+Nebraska,"Boone County, NE",41.7172326,-98.0465185,1
+Nebraska,"Dawes County, NE",42.6551733,-103.0817903,1
+Nebraska,"Antelope County, NE",42.1902446,-98.0465185,1
+Nebraska,"Brown County, NE",42.5052914,-99.9912254,1
+Nebraska,"Cheyenne County, NE",41.2509264,-103.0817903,1
+Nebraska,"Furnas County, NE",40.121397,-99.9912254,1
+Nebraska,"Wheeler County, NE",41.8372138,-98.5721016,1
+Nebraska,"Pierce County, NE",42.2257474,-97.5247243,1
+Nebraska,"Hayes County, NE",40.5070797,-101.0711758,1
+Nebraska,"Banner County, NE",41.500766,-103.6362715,1
+Nebraska,"Cedar County, NE",42.5610324,-97.179026,1
+Nebraska,"Valley County, NE",41.4936253,-98.9245343,1
+Nebraska,"Howard County, NE",41.2020435,-98.5721016,1
+Nebraska,"Sioux County, NE",42.5012873,-103.7289167,1
+Nebraska,"Boyd County, NE",42.8823716,-98.704075,1
+Nebraska,"Stanton County, NE",41.9329995,-97.179026,1
+Nebraska,"Burt County, NE",41.8252059,-96.3226072,1
+Nebraska,"Cuming County, NE",41.9540153,-96.8350999,1
+New York,"Bronx County, NY",40.8447819,-73.8648268,1
+New York,"Dutchess County, NY",41.7784372,-73.7477857,1
+New York,"Ulster County, NY",41.8586493,-74.3118212,1
+New York,"Orange County, NY",41.3911653,-74.3118212,1
+New York,"Kings County, NY",40.6781784,-73.9441579,1
+New York,"Sullivan County, NY",41.6897493,-74.7805192,1
+New York,"Suffolk County, NY",40.9848784,-72.6151169,1
+New York,"New York County, NY",40.7127753,-74.0059728,1
+New York,"Queens County, NY",40.7282239,-73.7948516,1
+New York,"Putnam County, NY",41.4351069,-73.7948516,1
+New York,"Nassau County, NY",40.6546145,-73.5594128,1
+New York,"Richmond County, NY",40.5795317,-74.1502007,1
+New York,"Westchester County, NY",41.1220194,-73.7948516,1
+New York,"Rockland County, NY",41.1489458,-73.9830029,1
+New York,"Rensselaer County, NY",42.673664,-73.5594128,1
+New York,"Albany County, NY",42.6525793,-73.7562317,1
+New York,"Columbia County, NY",42.3678759,-73.5594128,1
+New York,"Washington County, NY",43.2519472,-73.3708696,1
+New York,"Greene County, NY",42.2957321,-74.123996,1
+New York,"Saratoga County, NY",43.0324245,-73.9359821,1
+New York,"Schenectady County, NY",42.8493445,-73.9830029,1
+New York,"Warren County, NY",43.6078891,-73.7477857,1
+New York,"Cattaraugus County, NY",42.2318132,-78.7476208,1
+New York,"Oswego County, NY",43.482533,-76.1783739,1
+New York,"Montgomery County, NY",42.915521,-74.4525627,1
+New York,"Allegany County, NY",42.3129816,-78.0195387,1
+New York,"Jefferson County, NY",44.0607421,-75.9927652,1
+New York,"Seneca County, NY",42.7651891,-76.8720961,1
+New York,"Tompkins County, NY",42.4575747,-76.5488232,1
+New York,"Essex County, NY",44.0107408,-73.9507728,1
+New York,"Cortland County, NY",42.5440918,-75.9927652,1
+New York,"Yates County, NY",42.6430846,-77.1485163,1
+New York,"Cayuga County, NY",42.7655231,-76.5488232,1
+New York,"Orleans County, NY",43.4088624,-78.2020387,1
+New York,"Chenango County, NY",42.4972314,-75.6208088,1
+New York,"Hamilton County, NY",43.4764406,-74.4056612,1
+New York,"Broome County, NY",42.1791865,-75.8533954,1
+New York,"Lewis County, NY",43.840112,-75.4344727,1
+New York,"Monroe County, NY",43.2841246,-77.7452081,1
+New York,"Chautauqua County, NY",42.2312829,-79.560344,1
+New York,"Erie County, NY",42.9023958,-78.8661589,1
+New York,"Otsego County, NY",42.5779779,-75.0611147,1
+New York,"St. Lawrence County, NY",44.4473142,-74.930206,1
+New York,"Genesee County, NY",42.9837843,-78.1564432,1
+New York,"Schuyler County, NY",42.3796425,-76.8720961,1
+New York,"Steuben County, NY",42.321027,-77.3783789,1
+New York,"Oneida County, NY",43.2371798,-75.4344727,1
+New York,"Wayne County, NY",43.2020024,-77.010385,1
+New York,"Niagara County, NY",43.3119496,-78.7476208,1
+New York,"Livingston County, NY",42.7576923,-77.8367282,1
+New York,"Chemung County, NY",42.1362071,-76.7798172,1
+New York,"Schoharie County, NY",42.6550335,-74.4994517,1
+New York,"Ontario County, NY",42.8509838,-77.2864879,1
+New York,"Fulton County, NY",43.1118737,-74.4994517,1
+New York,"Clinton County, NY",44.7904203,-73.6005824,1
+New York,"Franklin County, NY",44.5926135,-74.3387798,1
+New York,"Tioga County, NY",42.1256317,-76.3637285,1
+New York,"Wyoming County, NY",42.642052,-78.2020387,1
+New York,"Herkimer County, NY",43.1630587,-74.8741045,1
+New York,"Onondaga County, NY",43.026819,-76.1783739,1
+New York,"Delaware County, NY",42.2452081,-74.8741045,1
+New York,"Madison County, NY",42.9805975,-75.8069082,1
+New York,"New York City (city), NY",40.7127753,-74.0059728,1
+Oregon,"Clackamas County, OR",45.2023855,-122.1188945,1
+Oregon,"Multnomah County, OR",45.5145659,-122.5863211,1
+Oregon,"Lincoln County, OR",44.609549,-123.9423591,1
+Oregon,"Washington County, OR",45.5469616,-123.1386021,1
+Oregon,"Morrow County, OR",45.4514124,-119.6243921,1
+Oregon,"Malheur County, OR",43.21716,-117.5791892,1
+Oregon,"Coos County, OR",43.242897,-124.105737,1
+Oregon,"Benton County, OR",44.6281686,-123.3873877,1
+Oregon,"Clatsop County, OR",46.0210796,-123.7653042,1
+Oregon,"Curry County, OR",42.5440503,-124.2781762,1
+Oregon,"Gilliam County, OR",45.4565608,-120.1802024,1
+Oregon,"Wallowa County, OR",45.592984,-116.9717994,1
+Oregon,"Sherman County, OR",45.4122013,-120.753042,1
+Oregon,"Wheeler County, OR",44.6659766,-120.0829624,1
+Oregon,"Harney County, OR",43.1423225,-119.0116305,1
+Oregon,"Marion County, OR",44.8446393,-122.5927411,1
+Oregon,"Wasco County, OR",45.0600051,-121.2375122,1
+Oregon,"Deschutes County, OR",43.83251,-121.2616541,1
+Oregon,"Crook County, OR",44.0978126,-120.0963654,1
+Oregon,"Jefferson County, OR",44.6673324,-121.1785788,1
+Oregon,"Linn County, OR",44.4099768,-122.53401,1
+Oregon,"Umatilla County, OR",45.7750424,-118.7606453,1
+Oregon,"Baker County, OR",44.7652304,-117.67692,1
+Oregon,"Lane County, OR",43.9610092,-122.6618227,1
+Oregon,"Lake County, OR",42.6986344,-120.565768,1
+Oregon,"Union County, OR",45.2334122,-118.0410627,1
+Oregon,"Tillamook County, OR",45.5293478,-123.7052374,1
+Oregon,"Douglas County, OR",43.1260694,-123.2492364,1
+Oregon,"Josephine County, OR",42.3447572,-123.4568737,1
+Oregon,"Jackson County, OR",42.334535,-122.7646577,1
+Oregon,"Polk County, OR",44.9266528,-123.4919256,1
+Oregon,"Columbia County, OR",45.9197103,-123.0357231,1
+Oregon,"Hood River County, OR",45.5605475,-121.6378798,1
+Oregon,"Grant County, OR",44.4384077,-118.8917326,1
+Oregon,"Klamath County, OR",42.6952767,-121.6142133,1
+Oregon,"Yamhill County, OR",45.1771983,-123.2395303,1
+Pennsylvania,"Chester County, PA",40.0010204,-75.8069082,1
+Pennsylvania,"Delaware County, PA",39.907793,-75.3878525,1
+Pennsylvania,"Berks County, PA",40.3451566,-75.9927652,1
+Pennsylvania,"Wyoming County, PA",41.5004703,-76.0391909,1
+Pennsylvania,"Washington County, PA",40.1367719,-80.1875065,1
+Pennsylvania,"Lancaster County, PA",40.0466571,-76.1783739,1
+Pennsylvania,"Centre County, PA",40.8765649,-77.8367282,1
+Pennsylvania,"Bradford County, PA",41.8362502,-76.5488232,1
+Pennsylvania,"Tioga County, PA",41.7649466,-77.2864879,1
+Pennsylvania,"Huntingdon County, PA",40.4155273,-78.0195387,1
+Pennsylvania,"Indiana County, PA",40.6850762,-79.1096901,1
+Pennsylvania,"Forest County, PA",41.5341012,-79.2451149,1
+Pennsylvania,"McKean County, PA",41.8133351,-78.4751945,1
+Pennsylvania,"Mercer County, PA",41.2619821,-80.1875065,1
+Pennsylvania,"Clarion County, PA",41.1982095,-79.4703885,1
+Pennsylvania,"Cumberland County, PA",40.1299841,-77.2405153,1
+Pennsylvania,"Crawford County, PA",41.6661391,-80.2767327,1
+Pennsylvania,"Sullivan County, PA",41.4781004,-76.5025742,1
+Pennsylvania,"Snyder County, PA",40.750748,-77.0564464,1
+Pennsylvania,"Dauphin County, PA",40.2734277,-76.7336521,1
+Pennsylvania,"Clinton County, PA",41.3331937,-77.6536125,1
+Pennsylvania,"Schuylkill County, PA",40.6873058,-76.1783739,1
+Pennsylvania,"Somerset County, PA",40.022493,-78.9288242,1
+Pennsylvania,"Elk County, PA",41.4284924,-78.5660852,1
+Pennsylvania,"Carbon County, PA",40.901975,-75.667356,1
+Pennsylvania,"Blair County, PA",40.4531318,-78.3842227,1
+Pennsylvania,"Cameron County, PA",41.4261564,-78.1564432,1
+Pennsylvania,"Union County, PA",40.9894888,-77.0564464,1
+Pennsylvania,"Lycoming County, PA",41.2720004,-77.1024902,1
+Pennsylvania,"Northumberland County, PA",40.8674339,-76.6874701,1
+Pennsylvania,"Cambria County, PA",40.4894231,-78.7476208,1
+Pennsylvania,"Beaver County, PA",40.6367812,-80.365865,1
+Pennsylvania,"Warren County, PA",41.8143331,-79.2902133,1
+Pennsylvania,"Potter County, PA",41.6682559,-77.8367282,1
+Pennsylvania,"Clearfield County, PA",40.9519685,-78.5660852,1
+Pennsylvania,"Franklin County, PA",39.8923855,-77.6536125,1
+Pennsylvania,"Fulton County, PA",39.9048759,-78.1564432,1
+Pennsylvania,"Columbia County, PA",41.0274439,-76.3637285,1
+Pennsylvania,"York County, PA",39.9512496,-76.7336521,1
+Pennsylvania,"Mifflin County, PA",40.652279,-77.6077865,1
+Pennsylvania,"Bedford County, PA",39.986955,-78.5660852,1
+Pennsylvania,"Wayne County, PA",41.6738865,-75.2479061,1
+Pennsylvania,"Philadelphia County, PA",40.0152766,-75.1311874,1
+Pennsylvania,"Armstrong County, PA",40.8790518,-79.4703885,1
+Pennsylvania,"Butler County, PA",40.9115243,-79.8296743,1
+Pennsylvania,"Lawrence County, PA",40.957855,-80.365865,1
+Pennsylvania,"Lackawanna County, PA",41.4421199,-75.5742467,1
+Pennsylvania,"Jefferson County, PA",41.147013,-78.9288242,1
+Pennsylvania,"Northampton County, PA",40.7749283,-75.294569,1
+Pennsylvania,"Lehigh County, PA",40.6519679,-75.5742467,1
+Pennsylvania,"Venango County, PA",41.3896611,-79.8296743,1
+Pennsylvania,"Erie County, PA",42.0521954,-80.1875065,1
+Pennsylvania,"Juniata County, PA",40.5521642,-77.4242972,1
+Pennsylvania,"Pike County, PA",41.3361875,-75.0611147,1
+Pennsylvania,"Allegheny County, PA",40.4450813,-80.0087746,1
+Pennsylvania,"Perry County, PA",40.371376,-77.2405153,1
+Pennsylvania,"Luzerne County, PA",41.1404353,-75.9927652,1
+Pennsylvania,"Adams County, PA",39.8522417,-77.2864879,1
+Pennsylvania,"Montour County, PA",41.0262303,-76.6874701,1
+Pennsylvania,"Greene County, PA",39.8113005,-80.1875065,1
+Pennsylvania,"Monroe County, PA",41.0458376,-75.2479061,1
+Pennsylvania,"Bucks County, PA",40.4107964,-75.2479061,1
+Pennsylvania,"Fayette County, PA",39.9272324,-79.6502105,1
+Pennsylvania,"Montgomery County, PA",40.2290075,-75.3878525,1
+Pennsylvania,"Susquehanna County, PA",41.745553,-75.8069082,1
+Pennsylvania,"Westmoreland County, PA",40.2353963,-79.4703885,1
+Pennsylvania,"Lebanon County, PA",40.3666686,-76.5025742,1
+Tennessee,"Davidson County, TN",36.1342563,-86.8220341,1
+Texas,"Anderson County, TX",31.776932,-95.6457951,1
+Texas,"Bexar County, TX",29.4200763,-98.5721016,1
+Texas,"Dallas County, TX",32.8024682,-96.8350999,1
+Texas,"El Paso (city), TX",31.7618143,-106.4852937,1
+Texas,"El Paso County, TX",31.8039824,-106.2051484,1
+Texas,"Sundown (city), TX",33.456207,-102.4893574,1
+Texas,"Tarrant County, TX",32.7732044,-97.3516558,1
+Texas,"Travis County, TX",30.2097015,-97.6982272,1
+Utah,"Carbon County, UT",39.6479807,-110.6168921,1
+Utah,"Millard County, UT",39.0611744,-113.1918021,1
+Utah,"Emery County, UT",39.0738385,-110.7122465,1
+Utah,"Uintah County, UT",40.1069499,-109.3783206,1
+Utah,"Daggett County, UT",40.9053845,-109.5211063,1
+Utah,"Box Elder County, UT",41.5380087,-113.1918021,1
+Utah,"Wayne County, UT",38.3337024,-110.8076084,1
+Utah,"Kane County, UT",37.293251,-112.4291464,1
+Utah,"Beaver County, UT",38.3266376,-113.287085,1
+Utah,"Garfield County, UT",37.8400344,-111.2845025,1
+Utah,"Sevier County, UT",38.7333524,-111.6660725,1
+Utah,"Piute County, UT",38.3997408,-112.1430215,1
+Utah,"Duchesne County, UT",40.2172448,-110.5215459,1
+Utah,"Rich County, UT",41.5629707,-111.1891151,1
+Utah,"Summit County, UT",40.8297566,-110.9983515,1
+Utah,"San Juan County, UT",37.4634157,-109.7591675,1
+Utah,"Sanpete County, UT",39.3090085,-111.5706786,1
+Utah,"Grand County, UT",39.0086287,-109.5613343,1
+Utah,"Weber County, UT",41.2602635,-111.9522491,1
+Utah,"Wasatch County, UT",40.3629418,-110.9983515,1
+Utah,"Davis County, UT",40.9628845,-112.0953297,1
+Utah,"Washington County, UT",37.3224877,-113.4776098,1
+Utah,"Cache County, UT",41.7560026,-111.7614661,1
+Utah,"Morgan County, UT",41.0576176,-111.6183755,1
+Utah,"Iron County, UT",37.7854715,-113.1918021,1
+Utah,"Utah County, UT",40.0966287,-111.5706786,1
+Utah,"Salt Lake County, UT",40.644188,-111.9522491,1
+Utah,"Tooele County, UT",40.507092,-113.0011989,1
+Utah,"Juab County, UT",39.7108104,-112.7152125,1
+Utah,"Provo (city), UT",40.2330185,-111.6644888,1
+Utah,"Orem (city), UT",40.2968979,-111.6946475,1
+Utah,,,,0
+Utah,"Salt Lake City (city), UT",40.7607793,-111.8910474,1
+Virginia,"Arlington County, VA",38.8816208,-77.0909809,1
+Virginia,"Manassas City, VA",38.7509488,-77.4752667,1
+Virginia,"Manassas Park City, VA",38.7840035,-77.4697111,1
+Virginia,"Prince William County, VA",38.7838939,-77.6077865,1
+Virginia,"Warren County, VA",38.9331749,-78.2476146,1
+Washington,"Benton County, WA",46.3166362,-119.5021582,1
+Washington,"Franklin County, WA",46.4937363,-118.8672379,1
+Washington,"Clark County, WA",45.7466471,-122.5194378,1
+Washington,"King County, WA",47.5480339,-121.9836029,1
+Washington,"Chelan County, WA",47.9445331,-120.6749068,1
+Washington,"Klickitat County, WA",45.888824,-120.9711029,1
+Washington,"Pierce County, WA",47.0675877,-122.1295269,1
+Washington,"Snohomish County, WA",48.0329979,-121.8339472,1
+Washington,"Whatcom County, WA",48.8787167,-121.9718658,1
+Washington,"Yakima County, WA",46.543606,-120.7558291,1
+Washington,"Douglas County, WA",47.7790617,-119.7474606,1
+Washington,"Skagit County, WA",48.4241961,-121.7114362,1
+Washington,"Okanogan County, WA",48.5896831,-119.652214,1
+Washington,"Columbia County, WA",46.2775138,-117.814262,1
+Washington,"Stevens County, WA",48.4558249,-117.9059909,1
+Washington,"Whitman County, WA",46.8363403,-117.5887295,1
+Washington,"Lincoln County, WA",47.5320525,-118.4701194,1
+Washington,"Garfield County, WA",46.5185629,-117.5276611,1
+Washington,"Skamania County, WA",45.9428524,-121.8962257,1
+Washington,"Pend Oreille County, WA",48.4359065,-117.3173375,1
+Washington,"Wahkiakum County, WA",46.3259463,-123.4945592,1
+Washington,"Asotin County, WA",46.1460123,-117.2085208,1
+Washington,"Ferry County, WA",48.4718375,-118.4974069,1
+Washington,"Cowlitz County, WA",46.1746472,-122.7746902,1
+Washington,"Clallam County, WA",48.0405122,-124.016766,1
+Washington,"Walla Walla County, WA",46.2369842,-118.5854769,1
+Washington,"Kitsap County, WA",47.6476607,-122.6412583,1
+Washington,"Spokane County, WA",47.658693,-117.4225481,1
+Washington,"Jefferson County, WA",47.7424541,-123.3040062,1
+Washington,"Grant County, WA",47.1981147,-119.3732456,1
+Washington,"San Juan County, WA",48.6118035,-122.9602621,1
+Washington,"Adams County, WA",46.9272238,-118.51098,1
+Washington,"Pacific County, WA",46.5180824,-123.8264512,1
+Washington,"Island County, WA",48.19765,-122.579457,1
+Washington,"Lewis County, WA",46.6195461,-122.4554639,1
+Washington,"Mason County, WA",47.4251146,-123.1951376,1
+Washington,"Kittitas County, WA",47.1749548,-120.931941,1
+Washington,"Thurston County, WA",46.8645747,-122.7695986,1
+Washington,"Grays Harbor County, WA",46.9953526,-123.7012468,1
+Washington,"Seattle (city), WA",47.6038962,-122.3298442,1
+West Virginia,"Monongalia County, WV",39.6695849,-79.9640339,1
