@@ -9,7 +9,7 @@ To my knowledge, this has turned into the largest dataset with time series of ca
 
 
 ## Limitations
-There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here.
+There are tons. First---because this dataset was formed to address the lack of nationwide (or in most cases, statewide) standards that compel institutes of higher education to report their testing and case count data---much of these data were gathered through a huge crowdsourcing effort (survey link [here](https://neu.co1.qualtrics.com/jfe/form/SV_8dE7jqvikKSlgYR)). As such, there is very likely human error in the collection or reporting of data. Second, many schools rely on self-reported data, which can also present an opportunity for human error. Third, as time goes on, IHEs may update their own counts of testing and cases, which might produce inconsistencies with the data used here. Fourth, assigning any sort of causation to these measures is very tricky and all of the preliminary results below should be interpreted as associations or correlations.
 
 
 ## Notebooks
@@ -48,10 +48,26 @@ The main finding of this work so far concerns campus testing from IHEs.
 - - - -
 
 <p align="center">
-<img src="figs/pngs/map_with_testing_comparison.png" alt="county_level" width="95%"/>
+<img src="figs/pngs/maps_so_far.png" alt="county_level" width="95%"/>
 </p>
 
 **<p align="center">Current status of the Campus Covid dataset.**
+
+- - - -
+
+<p align="center">
+<img src="figs/pngs/cases_deaths_FIPS_testing_quantiles.png" alt="county_level" width="95%"/>
+</p>
+
+**<p align="center">Counties with IHEs that do vs. do not test, part 1.**
+
+- - - -
+
+<p align="center">
+<img src="figs/pngs/cases_deaths_FIPS_testing_quantiles_ratio.png" alt="county_level" width="95%"/>
+</p>
+
+**<p align="center">Counties with IHEs that do vs. do not test, part 2.**
 
 - - - -
 
