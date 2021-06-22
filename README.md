@@ -48,7 +48,7 @@ The main finding of this work so far concerns campus testing from IHEs.
 - - - -
 
 <p align="center">
-<img src="figs/pngs/maps_so_far.png" alt="county_level" width="95%"/>
+<img src="figs/pngs/campus_covid_map.png" alt="county_level" width="95%"/>
 </p>
 
 **<p align="center">Current status of the Campus Covid dataset.**
@@ -56,39 +56,11 @@ The main finding of this work so far concerns campus testing from IHEs.
 - - - -
 
 <p align="center">
-<img src="figs/pngs/cases_deaths_FIPS_testing_quantiles.png" alt="county_level" width="95%"/>
+<img src="figs/pngs/matching_casedeaths_x1.png" alt="county_level" width="95%"/>
 </p>
 
-**<p align="center">Counties with IHEs that do vs. do not test, part 1.**
+**<p align="center">Counties with IHEs with primarily in-person vs. primarily online Fall 2020.**
 
-- - - -
-
-<p align="center">
-<img src="figs/pngs/cases_deaths_FIPS_testing_quantiles_ratio.png" alt="county_level" width="95%"/>
-</p>
-
-**<p align="center">Counties with IHEs that do vs. do not test, part 2.**
-
-- - - -
-
-<p align="center">
-<img src="figs/pngs/peak_cases_and_deaths_yestest_nontest.png" alt="county_level" width="95%"/>
-</p>
-
-**<p align="center">Institutions of higher education that test more frequently also tend to have earlier "first" peaks.**
-- - - -
-
-<p align="center">
-<img src="figs/pngs/IHE_FIPS_fall2020_status.png" alt="county_level" width="95%"/>
-</p>
-
-**<p align="center">Online vs. In-person Fall 2020.**
-- - - -
-<p align="center">
-<img src="figs/pngs/county_campustesting_statewide_policies_casedeaths.png" alt="county_level" width="95%"/>
-</p>
-
-**<p align="center">Separated by counties in states with ongoing social distancing / mitigation policies in place.**
 - - - -
 
 
